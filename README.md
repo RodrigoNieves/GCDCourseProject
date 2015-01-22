@@ -34,5 +34,5 @@ The instruction for this Project are:
 
  ## Products:
 These are products of the Project:
-* [tidyData.txt](tidyData.txt):
+* [tidy.txt](tidy.txt):
 * [CodeBook.md](CodeBook.md):
